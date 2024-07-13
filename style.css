@@ -1,0 +1,32 @@
+*
+{
+    margin:0;
+    padding:0;background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgb(254, 255, 252) 0%, rgba(9,117,121,0.036852240896358524) 35%, rgba(0,212,255,1) 100%);
+   
+       
+      
+}
+h2 a{ color:blue
+    
+    ; margin-left: 40%;
+}
+
+table{ 
+    border: 2px solid rgb(240, 25, 25); 
+    border-collapse: collapse; columns: 2px;
+    padding:40px ;
+    margin: 20px;
+    width: 500px;
+    margin-left: 35%;inline-size: 30px 30px; font-size: x-large;  
+}
+
+h2 :hover { 
+    color: red; text-decoration: underline 
+}
+
+.n1{background-color: rgb(255, 0, 0);}
+
+table a{
+    text-decoration: none;color: black;
+}
